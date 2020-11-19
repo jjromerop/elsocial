@@ -1,0 +1,1 @@
+web: java -jar target/elsocial-1.0.jar
